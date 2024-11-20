@@ -20,6 +20,7 @@ Note that most of the .m files are functions used to generate the mesh on the hy
 
 ## Convergence analysis
 
+![Frequency vs Potential](stabilityfinale.jpg)
 
 ## References
 
